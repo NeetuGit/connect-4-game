@@ -1,0 +1,16 @@
+
+
+.App {
+  text-align: Left;
+  color: #3041ff;
+  background-image: url('./img/backgroundPic.png');
+  width:80%;
+  margin: auto;
+}
+
+.button {
+    color: #3041ff;
+    font-weight: bold;
+    width: 60px;
+    height: 30px;
+}
